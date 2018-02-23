@@ -3,13 +3,8 @@
 ## Web and Network Data Science
 ##
 ## Project: Innovation of the Apple iPhone
-## Team: Science and Technology Group
-## Team Members:    
-##      Joey Cericola
-##      Dinesh Choudhary
-##      Nitin Gaonkar
-##      Michael Kennedy
-##      Joshua Myers
+## 
+##   
 ##
 ## Program:cleanup_tweets.py
 ## Program Goal:Cleans up the raw tweets 
