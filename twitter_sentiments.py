@@ -3,14 +3,6 @@
 ## Web and Network Data Science
 ##
 ## Project: Innovation of the Apple iPhone
-## Team: Science and Technology Group
-## Team Members:    
-##      Joey Cericola
-##      Dinesh Choudhary
-##      Nitin Gaonkar
-##      Michael Kennedy
-##      Joshua Myers
-##
 ## Program: twitter_sentiments.py
 ## Program Goal:Compute the overall Sentiment
 ##
