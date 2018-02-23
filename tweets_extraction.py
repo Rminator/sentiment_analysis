@@ -3,14 +3,6 @@
 ## Web and Network Data Science
 ##
 ## Project: Innovation of the Apple iPhone
-## Team: Science and Technology Group
-## Team Members:    
-##      Joey Cericola
-##      Dinesh Choudhary
-##      Nitin Gaonkar
-##      Michael Kennedy
-##      Joshua Myers
-##
 ## Program: tweets_extraction.py
 ## Program Goal:Extracts the tweets from twitter API
 ##
